@@ -11,21 +11,20 @@ This is a Library App UI Design created using Figma. The application provides a 
 The main objective of this project is to design a user-friendly library application with a clean and modern interface that makes finding, borrowing, and managing books easy, quick, and convenient.
 
 📱 Screens Included
-Initial Screen
-Login Screen
-Home Screen
-Dashboard
-Book Categories
-Search Book
-Book Details
-Available Books
-Borrow Book
-My Books
-Due Date
-Return Book
-History
-Profile
-Settings
+
+1.Buttons
+
+<img width="1440" height="1024" alt="Buttons" src="https://github.com/user-attachments/assets/e9443abe-913e-4c91-9b8e-43c1c06c2a67" />
+
+2.Icons
+
+<img width="890" height="637" alt="Screenshot 2026-09-28 115711" src="https://github.com/user-attachments/assets/fa715037-f455-4215-a4b0-4e4770400450" />
+
+3.Cards
+
+<img width="1440" height="1024" alt="cards" src="https://github.com/user-attachments/assets/b8b83db9-a8a9-40a1-b474-c0ec92d2fed2" />
+
+
 📖 Book Categories
 📚 Fiction
 📘 Education<img 
@@ -41,8 +40,5 @@ Figma – UI/UX Design
 Icons – Library & Navigation Icons
 Typography – Modern & Readable Fonts
 Colors – Clean & User-Friendly Color Palette
-page 1 <img width="550" height="422" alt="Screenshot 2026-09-28 100348" src="https://github.com/user-attachments/assets/d23a4e20-c298-4f63-8115-206ce7741bc4" />
-page 2 <img width="548" height="423" alt="Screenshot 2026-09-28 100357" src="https://github.com/user-attachments/assets/94ed8371-acdd-4a9c-bd63-380d1e745ee4" />
-page 3<img width="856" height="671" alt="Screenshot 2026-09-28 100406" src="https://github.com/user-attachments/assets/5f4a8fe6-6edf-49f7-bb67-30b8aa4c6538" />
 
 
