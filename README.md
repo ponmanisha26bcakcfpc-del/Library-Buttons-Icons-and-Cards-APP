@@ -1,6 +1,11 @@
 # Library-Buttons-Icons-and-Cards-APP
+Design link:
 https://www.figma.com/design/DapNUPm85cNaJNf6EvQEZA/Untitled?node-id=0-1&p=f&t=nPsu001PZjOtEwiP-0
+
+Prototype link:
 https://www.figma.com/design/DapNUPm85cNaJNf6EvQEZA/Untitled?node-id=0-1&m=dev&t=nPsu001PZjOtEwiP-1
+
+
 Library App UI Design
 ✨ Project Overview
 
