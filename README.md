@@ -6,10 +6,11 @@ https://www.figma.com/design/DapNUPm85cNaJNf6EvQEZA/Untitled?node-id=0-1&p=f&t=n
 
 Prototype link:
 
-https://www.figma.com/design/DapNUPm85cNaJNf6EvQEZA/Untitled?node-id=0-1&m=dev&t=nPsu001PZjOtEwiP-1
+https://www.figma.com/proto/DapNUPm85cNaJNf6EvQEZA/Untitled?node-id=0-1&t=YnrsKALmESUwJDY1-1
 
 
 Library App UI Design
+
 ✨ Project Overview
 
 This is a Library App UI Design created using Figma. The application provides a simple and attractive interface for users to search books, explore categories, view book details, borrow books, check due dates, and manage their borrowed books.
